@@ -16,3 +16,6 @@ With the following input the application creates the .kml file, which can be loa
 
 It's very useful in the case when we want to visuzlize the telephoto or wide-angle view from specified location not necessarily ground-based.
 
+<B>REQUIRED:</B>
+
+pyautogui library
