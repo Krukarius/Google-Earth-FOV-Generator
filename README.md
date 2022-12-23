@@ -1,4 +1,4 @@
-# Google-Earth-FOV-Generator
+# Google-Earth-FOV-Generator v1.0
 Generator of Field of View for any place defined in Google Earth
 
 
