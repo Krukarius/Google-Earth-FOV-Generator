@@ -1,4 +1,4 @@
-# Google-Earth-FOV-Generator v1.0
+# Google-Earth-FOV-Generator
 Generator of Field of View for any place defined in Google Earth
 
 
@@ -19,3 +19,8 @@ It's very useful in the case when we want to visuzlize the telephoto or wide-ang
 <B>REQUIRED:</B>
 
 pyautogui library
+
+
+<b>CURRENT VERSION</B>
+
+1.0
